@@ -1,6 +1,6 @@
-# Collection of usefull function for CNN/RNN
+# Collection of useful function for CNN/RNN
 
-The jupyter notebook file "Collection.jpynb" will be a collection of usefull function for CNN/RNN.
+The jupyter notebook file "Collection.jpynb" will be a collection of useful function for CNN/RNN.
 
 In progress....
 
