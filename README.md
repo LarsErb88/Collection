@@ -9,7 +9,10 @@ Documentation
 -------------
 
 a) Open a text file and read in data as 'text'
+
 b) Encode the text and map each character to an interger and vice versa
+
+c) Create mini-batches
 
 
 
