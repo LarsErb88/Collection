@@ -14,6 +14,12 @@ b) Encode the text and map each character to an interger and vice versa
 
 c) Create mini-batches
 
+d) Preprocess function for text files
+
+e) Create a lookup table for words
+
+f) get target - grab words around a word 
+
 
 
 More Information
